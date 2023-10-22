@@ -126,7 +126,7 @@ function App() {
             <div className="modal-content">
               <div className="modal-header">
                 <h5 className="modal-title">About This Project</h5>
-                <button type="button" className="close" onClick={closeModal}>
+                <button type="button" className="close demo" onClick={closeModal}>
                   <span aria-hidden="true">&times;</span>
                 </button>
               </div>

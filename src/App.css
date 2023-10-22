@@ -13,3 +13,11 @@
 .thicker {
   border: 1px solid black;
 }
+
+.demo{
+  border:0px solid black;
+  border-radius:4px;
+  width:40px;
+  height:40px;
+}
+
